@@ -1,0 +1,10 @@
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.Form1.resources
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.exe
+C:\Users\emill\OneDrive - ifro.edu.br\Área de Trabalho\GestaoBiblioteca\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.pdb
