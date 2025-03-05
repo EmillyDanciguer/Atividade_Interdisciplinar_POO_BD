@@ -14,7 +14,6 @@ namespace GestaoBiblioteca
 {
     public partial class Form1 : Form
     {
-        string strconexao = "server=localhost;port=3306;uid=root;pwd=danciguer16;database=trabalho_interdisciplinar";
 
         public Form1()
         {
@@ -24,19 +23,7 @@ namespace GestaoBiblioteca
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Conexão com o Banco de Dados - Gestão Biblioteca
 
-            MySqlConnection conexao = new MySqlConnection(strconexao);
-            try
-            {
-                conexao.Open();
-                MessageBox.Show("Conexão com o banco de dados estabelecida com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Erro ao conectar com o Banco de Dados: " + ex.Message);
-            }
         }
 
         private void btCadastrar_Click(object sender, EventArgs e)
