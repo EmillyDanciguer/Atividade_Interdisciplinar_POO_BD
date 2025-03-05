@@ -10,12 +10,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using GestaoBiblioteca.Data;
 using GestaoBiblioteca.Models;
-
+using GestaoBiblioteca.Context;
 namespace GestaoBiblioteca.Formulario
 {
     public partial class FormCadastrarAutor : Form
     {
-        private List<Autor> listaAutores = new List<Autor>();
+        
 
         public FormCadastrarAutor()
         {
@@ -43,7 +43,7 @@ namespace GestaoBiblioteca.Formulario
                 _telefone = txtTelefone.Text
             };
 
-            listaAutores.Add(novoAutor);
+            Context.Context.listaAutores.Add(novoAutor);
             using (MySqlConnection conexao = Conexao.Conectar())
 
             {
